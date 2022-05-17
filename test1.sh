@@ -1,5 +1,4 @@
 #!/bin/bash
 
 echo "hello"
-
-exit 0
+exit 1
